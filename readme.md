@@ -1,4 +1,4 @@
-# F450 Isaac Sim - Trinh Tu Chay
+# F450 Isaac Sim
 
 File nay gom cac lenh can chay theo dung thu tu. Ban chi can copy tung block vao Isaac Sim Script Editor.
 
